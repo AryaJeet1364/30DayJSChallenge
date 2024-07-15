@@ -123,7 +123,7 @@ console.log();
 
 
 // Feature Request
-console.log("Feature Request");
+console.log("Feature Request:");
 console.log();
 
 // 1.
