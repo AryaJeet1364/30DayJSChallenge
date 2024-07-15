@@ -1,4 +1,6 @@
 // Tasks/Activities
+console.log("Daily Tasks:");
+console.log();
 
 // Activity 1
 // Task 1
@@ -122,6 +124,7 @@ console.log();
 
 // Feature Request
 console.log("Feature Request");
+console.log();
 
 // 1.
 function checkNumber(num) {
